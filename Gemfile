@@ -24,7 +24,5 @@ gem "jekyll-include-cache"
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 
 
-gem "webrick", "~> 1.8"
-gem 'faraday', '~> 2.0'
-gem "jekyll", "~> 3.9.0"
+
 gem 'faraday-retry'
