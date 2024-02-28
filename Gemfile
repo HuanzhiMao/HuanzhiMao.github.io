@@ -26,3 +26,5 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
 end
 gem "webrick", "~> 1.8"
+gem 'faraday', '~> 2.0'
+gem 'faraday-retry'

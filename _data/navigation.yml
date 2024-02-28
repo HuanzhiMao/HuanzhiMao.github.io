@@ -6,5 +6,5 @@
       url: /teaching/
     - title: "CourseWork"
       url: /coursework/
-    - title: "Blog"
-      url: /blog/
+    # - title: "Blog"
+    #   url: /blog/
