@@ -23,6 +23,7 @@ gem "jekyll-include-cache"
 # If you have any other plugins, put them here!
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 
-
-
+gem "webrick"
+gem 'faraday'
+gem "jekyll"
 gem 'faraday-retry'
