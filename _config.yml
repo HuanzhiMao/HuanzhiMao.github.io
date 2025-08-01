@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Huanzhi (Hans) Mao"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "UC Berkeley 25' CS + DS"
+  bio              : "CS PhD @ UC Berkeley"
   location         : "Berkeley, CA"
   # email            : "huanzhimao@berkeley.edu"
   links:
@@ -116,6 +116,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HuanzhiMao"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/huanzhi-mao-82975a22a/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=A71cD1kAAAAJ"
