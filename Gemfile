@@ -12,7 +12,7 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 gem "github-pages"
-gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll", "4.28.1"
 
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
